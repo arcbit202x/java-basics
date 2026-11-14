@@ -12,6 +12,7 @@ public class Main {
         p.pay();
         System.out.println("Ending the code execution");
         System.out.println("spring boot application");
+        System.out.println("db changes done");
     }
 }
 
