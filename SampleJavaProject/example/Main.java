@@ -11,8 +11,6 @@ public class Main {
         Payment p = new UPIPayment();
         p.pay();
         System.out.println("Ending the code execution");
-        System.out.println("spring boot application");
-        System.out.println("db changes done");
     }
 }
 
